@@ -1,4 +1,0 @@
-*.ipynb
-*.pdf
-*.csv
-.ypynb_checkpoints
